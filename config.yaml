@@ -1,7 +1,15 @@
 baseURL: http://example.org/
 languageCode: en
-title: My New Hugo Site
+title: My dev blog
 theme: stack
 
 params:
   favicon: coding.ico
+  sidebar:
+    emoji: 🤓
+
+  footer:
+    since: 2022
+    customText: "Made for programmers by a programmer"
+
+
