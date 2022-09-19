@@ -1,0 +1,7 @@
+baseURL: http://example.org/
+languageCode: en
+title: My New Hugo Site
+theme: stack
+
+params:
+  favicon: coding.ico
