@@ -7,6 +7,10 @@ params:
   favicon: coding.ico
   sidebar:
     emoji: 🤓
+    avatar:
+      enabled: true
+      local: false
+      src: img/avatar.png
 
   footer:
     since: 2022
