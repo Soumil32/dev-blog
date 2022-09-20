@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://ourlife.ml/
 languageCode: en
 title: My dev blog
 theme: stack
